@@ -1,0 +1,15 @@
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.exe
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.deps.json
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.runtimeconfig.json
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.dll
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.pdb
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.AssemblyInfo.cs
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.dll
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\refint\MiniMaxSum.dll
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.pdb
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.genruntimeconfig.cache
+C:\Users\Admin'\Desktop\algorithm_ZEN\MiniMaxSum\MiniMaxSum\obj\Debug\net7.0\ref\MiniMaxSum.dll
